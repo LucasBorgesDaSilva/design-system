@@ -1,0 +1,4 @@
+/* Importando conjuntos de estilização do Tailwind, "bibliotecas" */
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
